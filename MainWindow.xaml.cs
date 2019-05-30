@@ -1,4 +1,10 @@
-﻿using System;
+/*Quinn Parker-Joyes
+May 30 2019
+ics3u
+math tutor program*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
